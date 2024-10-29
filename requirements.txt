@@ -1,6 +1,7 @@
-streamlit
+streamlit==1.26.0
 ifcopenshell
 matplotlib
 plotly
 pandas
 xlsxwriter
+openai
